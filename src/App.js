@@ -1,7 +1,6 @@
 import React from "react";
 import reviews from "./data";
 import Testimonials from "./components/Testimonials";
-import { useState } from "react";
 
 
 const App = () => {
